@@ -202,7 +202,7 @@ PAGE = """<!DOCTYPE html>
   <details><summary>Which sites can I download from?</summary><p>TikTok, Instagram, Facebook, X, Snapchat, Vimeo, Reddit and Pinterest.</p></details>
   <details><summary>Where does the video go?</summary><p>On Android it goes to your Downloads or gallery. On iPhone, open it from Files and choose Save Video.</p></details>
   <details><summary>Is there an Android app?</summary><p>Yes, FK Multimedia has an Android app with the same features.</p></details>
-  <footer>Created by Florence K · Website &amp; App<br>Only download videos you own or have permission to save.</footer>
+  <footer>Created by Godwin Akwabeng · Website &amp; App<br>Only download videos you own or have permission to save.</footer>
 </div>
 <script>
 const $ = (id) => document.getElementById(id);
